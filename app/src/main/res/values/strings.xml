@@ -1,0 +1,26 @@
+<resources>
+    <string name="Tempat_Wisata">Tempat Wisata</string>
+    <string name="Nama_Tempat">Nama Tempat</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="move_activity">move_activity</string>
+
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/a_istana_maimun</item>
+        <item>@drawable/b_kota_lama</item>
+        <item>@drawable/c_candi_borobudur</item>
+        <item>@drawable/d_lawang_sewu</item>
+        <item>@drawable/e_gedong_songo</item>
+        <item>@drawable/f_candi_muara_takus</item>
+        <item>@drawable/g_lobang_jepang</item>
+        <item>@drawable/h_masjid_baiturrahman</item>
+        <item>@drawable/i_danau_toba</item>
+        <item>@drawable/j_kota_tua</item>
+    </integer-array>
+</resources>
